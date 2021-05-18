@@ -4,7 +4,8 @@
       "title": "new 1",
       "description": "this is new 1",
       "image": "",
-      "updatedAt": ""
+      "updatedAt": "",
+      "isDeleted": true
     }  
   },
   "lefts": {
