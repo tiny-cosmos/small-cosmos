@@ -25,10 +25,20 @@
   },
   "middles": {
     "1": {
+      "newsId": "1",
       "title": "new 1",
       "description": "this is new 1",
-      "image": "",
-      "updatedAt": ""
+      "image": "https://scontent-hkg4-2.xx.fbcdn.net/v/t1.6435-9/p720x720/60333357_2346017428987429_3349256763466579968_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=xGVNZB3G-VQAX_Sjb98&_nc_ht=scontent-hkg4-2.xx&tp=6&oh=6cd68b64a2bba6b10fc6c587945e001e&oe=60C907D6",
+      "updatedAt": "2021-05-18",
+      "position": "top"
+    },
+    "2": {
+      "newsId": "2",
+      "title": "new 1",
+      "description": "this is new 1",
+      "image": "https://scontent-hkg4-2.xx.fbcdn.net/v/t1.6435-9/p720x720/60333357_2346017428987429_3349256763466579968_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=xGVNZB3G-VQAX_Sjb98&_nc_ht=scontent-hkg4-2.xx&tp=6&oh=6cd68b64a2bba6b10fc6c587945e001e&oe=60C907D6",
+      "updatedAt": "2021-05-18",
+      "position": ""
     }  
   }
 }
