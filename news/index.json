@@ -1,0 +1,34 @@
+{
+  "banners": {
+    "1": {
+      "title": "new 1",
+      "description": "this is new 1",
+      "image": "",
+      "updatedAt": ""
+    }  
+  },
+  "lefts": {
+    "1": {
+      "title": "new 1",
+      "description": "this is new 1",
+      "image": "",
+      "updatedAt": ""
+    }  
+  },
+  "rights": {
+    "1": {
+      "title": "new 1",
+      "description": "this is new 1",
+      "image": "",
+      "updatedAt": ""
+    }  
+  },
+  "news": {
+    "1": {
+      "title": "new 1",
+      "description": "this is new 1",
+      "image": "",
+      "updatedAt": ""
+    }  
+  }
+}
