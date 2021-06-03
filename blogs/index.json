@@ -2,25 +2,113 @@
   "1": { 
         "blogId": "1", 
         "title": "THÔNG BÁO RA MẮT AWREAD BẢN OPEN ALPHA", 
-        "description": "Ngày 31/5 tới đây, Awread sẽ chính thức phát hành bản open alpha tới tất cả các tài khoản đăng ký trước qua form thông tin và qua các bài đăng facebook.",
+        "description": "Ngày 6/6 tới đây, Awread sẽ chính thức phát hành bản open alpha.",
         "position": "banner", 
-        "image": "https://www.facebook.com/awread.vn/photos/a.105531428157193/138681631508839",
-        "updatedAt": "2021-05-24"
+        "image": "https://listsach.com/wp-content/uploads/2020/02/top-sach-hay-cho-be-list-sach-truyen-thieu-nhi.jpg",
+        "updatedAt": "2021-06-06",
+        "content": "Ra mắt Awread"
        },
   "2": { 
         "blogId": "2", 
-        "title": "[TẠM DỪNG] Trí nhớ của anh, hồi ức của em", 
-        "description": "Ngày 1/6 tới đây, Lotus không trả tiền nữa nên drop truyện luôn. Không có tiền lấy sức đâu mà viết?",
-        "position": "left", 
-        "image": "https://www.facebook.com/Camthuong95/photos/a.404891573025969/1905762306272214",
-        "updatedAt": "2021-05-24"
-       },
+        "title": "TEST CÁC CHỨC NĂNG", 
+        "description": "Bắt đầu test các chức năng.",
+        "position": "banner", 
+        "image": "https://tieudung.vn/upload_images/images/2020/11/17/thuc-pham-chuc-nang.jpg",
+        "updatedAt": "2021-06-01 - 2021-06-06",
+        "content": "Chức năng cũng oce đấy"
+       },       
   "3": { 
         "blogId": "3", 
-        "title": "BITCOIN ĐÃ BỊ THAO TÚNG", 
-        "description": "Vì Bitcoin bị thao túng rơi không phanh nên Tùng và Quý, những con thỏ non của làng coin đang trong trạng thái chia 3 tài khoản. Tùng và Quý đều buồn.",
+        "title": "[BẢO TRÌ] Awread", 
+        "description": "Bảo trì tý nhá ae",
+        "status": "HOT",
+        "position": "left", 
+        "image": "https://cdn.gumac.vn//image/thong-bao-nang-cap-he-thong-gushop.jpg",
+        "updatedAt": "2021-06-02",
+        "content": "Bảo trì mất rrr"
+       },
+  "4": { 
+        "blogId": "4", 
+        "title": "[THÔNG BÁO] Ra mắt truyện mới", 
+        "description": "Truyện hay lắm mọi người ơiii",
+        "status": "NEW",
+        "position": "left", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa3rOiLhTP3ex6NVWioBvl8uYCWs3c1KbYpw&usqp=CAU",
+        "updatedAt": "2021-05-24",
+        "content": "nội dung đây"
+       },
+  "5": { 
+        "blogId": "5", 
+        "title": "[THÔNG BÁO]", 
+        "description": "Không có thông báo nào ở đây cả.",
+        "status": "HOT",
+        "position": "left", 
+        "image": "https://cdn.elearningindustry.com/wp-content/uploads/2016/05/top-10-books-every-college-student-read-1024x640.jpeg",
+        "updatedAt": "2021-05-24",
+        "content": "Một cú lừaaa."
+       },
+  "6": { 
+        "blogId": "6", 
+        "title": "GIÁ COIN GIẢM NẶNG", 
+        "description": "Trả tiền cho em đi e không chơi nữa đâu huhu",
+        "status": "HOT",
         "position": "top", 
-        "image": "https://www.facebook.com/Camthuong95/photos/a.404891573025969/1903913203123791",
-        "updatedAt": "2021-05-24"
-       },  
+        "image": "https://vnn-imgs-f.vgcloud.vn/2021/03/21/08/bitcoin-2.jpg",
+        "updatedAt": "2021-05-24",
+        "content": "Khóc T.T"
+       },           
+  "7": { 
+        "blogId": "7", 
+        "title": "Đùa à", 
+        "description": "Bitcoin bị thao túng rơi không phanh",
+        "position": "middle", 
+        "image": "https://cdn.elearningindustry.com/wp-content/uploads/2016/05/top-10-books-every-college-student-read-1024x640.jpeg",
+        "updatedAt": "2021-05-06",
+        "content": "Khóc lần 2 T.T"
+       },
+  "8": { 
+        "blogId": "8", 
+        "title": "Đùa đấy", 
+        "description": "Một ngày vẫn thế . . ... . .",
+        "position": "middle", 
+        "image": "https://assets.entrepreneur.com/content/3x2/2000/20191219170611-GettyImages-1152794789.jpeg",
+        "updatedAt": "2021-05-24",
+        "content": "Khóc lần 3 T.T"
+       },
+  "9": { 
+        "blogId": "9", 
+        "title": "Không đùa nha", 
+        "description": "oke bro",
+        "position": "middle", 
+        "image": "https://bloganh.net/wp-content/uploads/2020/05/cach-tao-dang-quay-lung-voi-ong-kinh.jpg",
+        "updatedAt": "2021-05-24",
+        "content": "Cười lần 1"
+       },
+ "10": { 
+        "blogId": "10", 
+        "title": "Một đêm sayyy", 
+        "description": "oke bro",
+        "position": "bottom", 
+        "image": "https://nld.mediacdn.vn/2020/5/29/doi-hoa-tim-5-1590731334546464136746.jpg",
+        "updatedAt": "2021-05-24",
+        "content": "Yasuooo"
+       },
+ "11": { 
+        "blogId": "11", 
+        "title": "Combo Lesyn", 
+        "description": "oke bro",
+        "position": "bottom", 
+        "image": "https://assets.entrepreneur.com/content/3x2/2000/20191219170611-GettyImages-1152794789.jpeg",
+        "updatedAt": "2021-05-24",
+        "content": "lessin"
+       },     
+ "12": { 
+        "blogId": "12", 
+        "title": "solo không", 
+        "description": "oke bro",
+        "position": "bottom", 
+        "image": "https://data.whicdn.com/images/281004488/original.jpg",
+        "updatedAt": "2021-05-24",
+        "content": "Cười lần 1"
+       }    
 }
