@@ -1,7 +1,7 @@
 ---
 name: Báo lỗi ứng dụng
 about: App không chạy thì bấm vào đây
-title: "[BUG]"
+title: ''
 labels: ''
 assignees: ''
 
