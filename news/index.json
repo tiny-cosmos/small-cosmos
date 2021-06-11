@@ -1,45 +1,137 @@
 {
-  "banners": {
-    "1": {
-      "title": "new 1",
-      "description": "this is new 1",
-      "image": "",
-      "updatedAt": "",
-      "isDeleted": true
-    }  
-  },
-  "lefts": {
-    "1": {
-      "title": "[THÔNG BÁO] Tác giả Cẩm Thương ra mắt truyện ngắn mới",
-      "description": "Ngày 06/5, tác giả Cẩm Thương đã ra mắt truyện ngắn mới “Chúng ta của thanh xuân” sau một thời gian dài vắng bóng.",
-      "image": "",
-      "updatedAt": ""
-    }  
-  },
-  "rights": {
-    "1": {
-      "title": "new 1",
-      "description": "this is new 1",
-      "image": "",
-      "updatedAt": ""
-    }  
-  },
-  "middles": {
-    "1": {
-      "newsId": "1",
-      "title": "new 1",
-      "description": "this is new 1",
-      "image": "https://scontent-hkg4-2.xx.fbcdn.net/v/t1.6435-9/p720x720/60333357_2346017428987429_3349256763466579968_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=xGVNZB3G-VQAX_Sjb98&_nc_ht=scontent-hkg4-2.xx&tp=6&oh=6cd68b64a2bba6b10fc6c587945e001e&oe=60C907D6",
-      "updatedAt": "2021-05-18",
-      "position": "top"
-    },
-    "2": {
-      "newsId": "2",
-      "title": "new 1",
-      "description": "this is new 1",
-      "image": "https://scontent-hkg4-2.xx.fbcdn.net/v/t1.6435-9/p720x720/60333357_2346017428987429_3349256763466579968_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=xGVNZB3G-VQAX_Sjb98&_nc_ht=scontent-hkg4-2.xx&tp=6&oh=6cd68b64a2bba6b10fc6c587945e001e&oe=60C907D6",
-      "updatedAt": "2021-05-18",
-      "position": ""
-    }  
-  }
+  "1": { 
+        "newsId": "1", 
+        "title": "THÔNG BÁO RA MẮT AWREAD BẢN OPEN ALPHA", 
+        "image": "https://listsach.com/wp-content/uploads/2020/02/top-sach-hay-cho-be-list-sach-truyen-thieu-nhi.jpg",
+        "description": "Ngày 6/6 tới đây, Awread sẽ chính thức phát hành bản open alpha.",
+        "status": "HOT",
+        "position": "banner", 
+        "updatedAt": "2021-06-06",
+       },
+  "2": { 
+        "newsId": "2", 
+        "title": "TEST CÁC CHỨC NĂNG", 
+        "image": "https://tieudung.vn/upload_images/images/2020/11/17/thuc-pham-chuc-nang.jpg",
+        "description": "Bắt đầu test các chức năng.",
+        "status": "HOT",
+        "position": "banner", 
+        "updatedAt": "2021-06-01 - 2021-06-06",
+       },       
+  "3": { 
+        "newsId": "3", 
+        "title": "[BẢO TRÌ] Awread", 
+        "image": "https://cdn.gumac.vn//image/thong-bao-nang-cap-he-thong-gushop.jpg",
+        "description": "Bảo trì tý nhá ae",
+        "status": "HOT",
+        "position": "left", 
+        "updatedAt": "2021-06-02",
+       },
+  "4": { 
+        "newsId": "4", 
+        "title": "[THÔNG BÁO] Ra mắt truyện mới", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa3rOiLhTP3ex6NVWioBvl8uYCWs3c1KbYpw&usqp=CAU",
+        "description": "Truyện hay lắm mọi người ơiii",
+        "status": "NEW",
+        "position": "left", 
+        "updatedAt": "2021-05-24",
+       },
+  "5": { 
+        "newsId": "5", 
+        "title": "[THÔNG BÁO]", 
+        "image": "https://cdn.elearningindustry.com/wp-content/uploads/2016/05/top-10-books-every-college-student-read-1024x640.jpeg",
+        "description": "Không có thông báo nào ở đây cả.",
+        "status": "HOT",
+        "position": "left", 
+        "updatedAt": "2021-05-24",
+       },
+  "6": { 
+        "newsId": "6", 
+        "title": "GIÁ COIN GIẢM NẶNG",
+        "image": "https://vnn-imgs-f.vgcloud.vn/2021/03/21/08/bitcoin-2.jpg",
+        "description": "Trả tiền cho em đi e không chơi nữa đâu huhu",
+        "status": "HOT",
+        "position": "top", 
+        "updatedAt": "2021-05-24",
+       },           
+  "7": { 
+        "newsId": "7", 
+        "title": "Đùa à", 
+        "image": "https://cdn.elearningindustry.com/wp-content/uploads/2016/05/top-10-books-every-college-student-read-1024x640.jpeg",
+        "description": "Bitcoin bị thao túng rơi không phanh",
+        "status": "HOT",
+        "position": "middle", 
+        "updatedAt": "2021-05-06",
+       },
+  "8": { 
+        "newsId": "8", 
+        "title": "Đùa đấy",
+        "image": "https://assets.entrepreneur.com/content/3x2/2000/20191219170611-GettyImages-1152794789.jpeg",
+        "description": "Một ngày vẫn thế . . ... . .",
+        "status": "HOT",
+        "position": "middle", 
+        "updatedAt": "2021-05-24",
+       },
+  "9": { 
+        "newsId": "9", 
+        "title": "Không đùa nha",
+        "image": "https://bloganh.net/wp-content/uploads/2020/05/cach-tao-dang-quay-lung-voi-ong-kinh.jpg",
+        "description": "oke bro",
+        "status": "HOT",
+        "position": "middle", 
+        "updatedAt": "2021-05-24",
+       },
+ "10": { 
+        "newsId": "10", 
+        "title": "Một đêm sayyy",
+        "image": "https://nld.mediacdn.vn/2020/5/29/doi-hoa-tim-5-1590731334546464136746.jpg",
+        "description": "oke bro",
+        "status": "HOT",
+        "position": "bottom", 
+        "updatedAt": "2021-05-24",
+       },
+ "11": { 
+        "newsId": "11", 
+        "title": "Combo Lesyn",
+        "image": "https://assets.entrepreneur.com/content/3x2/2000/20191219170611-GettyImages-1152794789.jpeg",
+        "description": "oke bro",
+        "status": "HOT",
+        "position": "bottom",  
+        "updatedAt": "2021-05-24",
+       },     
+ "12": { 
+        "newsId": "12",
+        "image": "https://data.whicdn.com/images/281004488/original.jpg",
+        "title": "solo không", 
+        "description": "oke bro",
+        "status": "HOT",
+        "position": "bottom", 
+        "updatedAt": "2021-05-24",
+       },
+ "13": { 
+        "newsId": "13",
+        "image": "https://data.whicdn.com/images/281004488/original.jpg",
+        "title": "[Kinh Nghiệm 1]", 
+        "description": "oke bro",
+        "status": "HOT",
+        "position": "right", 
+        "updatedAt": "2021-05-24",
+       }
+ "14": { 
+        "newsId": "14",
+        "image": "https://data.whicdn.com/images/281004488/original.jpg",
+        "title": "[Kinh Nghiệm 2]", 
+        "description": "oke bro",
+        "status": "HOT",
+        "position": "right", 
+        "updatedAt": "2021-05-24",
+       }
+ "15": { 
+        "newsId": "15",
+        "image": "https://data.whicdn.com/images/281004488/original.jpg",
+        "title": "[Kinh Nghiệm ]", 
+        "description": "oke bro",
+        "status": "HOT",
+        "position": "right", 
+        "updatedAt": "2021-05-24",
+       }
 }
