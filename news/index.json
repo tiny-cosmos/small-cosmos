@@ -6,7 +6,7 @@
         "description": "Ngày 6/6 tới đây, Awread sẽ chính thức phát hành bản open alpha.",
         "status": "HOT",
         "position": "banner", 
-        "updatedAt": "2021-06-06",
+        "updatedAt": "2021-06-06"
        },
   "2": { 
         "newsId": "2", 
@@ -15,7 +15,7 @@
         "description": "Bắt đầu test các chức năng.",
         "status": "HOT",
         "position": "banner", 
-        "updatedAt": "2021-06-01 - 2021-06-06",
+        "updatedAt": "2021-06-01 - 2021-06-06"
        },       
   "3": { 
         "newsId": "3", 
@@ -24,7 +24,7 @@
         "description": "Bảo trì tý nhá ae",
         "status": "HOT",
         "position": "left", 
-        "updatedAt": "2021-06-02",
+        "updatedAt": "2021-06-02"
        },
   "4": { 
         "newsId": "4", 
@@ -33,7 +33,7 @@
         "description": "Truyện hay lắm mọi người ơiii",
         "status": "NEW",
         "position": "left", 
-        "updatedAt": "2021-05-24",
+        "updatedAt": "2021-05-24"
        },
   "5": { 
         "newsId": "5", 
@@ -42,7 +42,7 @@
         "description": "Không có thông báo nào ở đây cả.",
         "status": "HOT",
         "position": "left", 
-        "updatedAt": "2021-05-24",
+        "updatedAt": "2021-05-24"
        },
   "6": { 
         "newsId": "6", 
@@ -51,7 +51,7 @@
         "description": "Trả tiền cho em đi e không chơi nữa đâu huhu",
         "status": "HOT",
         "position": "top", 
-        "updatedAt": "2021-05-24",
+        "updatedAt": "2021-05-24"
        },           
   "7": { 
         "newsId": "7", 
@@ -60,7 +60,7 @@
         "description": "Bitcoin bị thao túng rơi không phanh",
         "status": "HOT",
         "position": "middle", 
-        "updatedAt": "2021-05-06",
+        "updatedAt": "2021-05-06"
        },
   "8": { 
         "newsId": "8", 
@@ -69,7 +69,7 @@
         "description": "Một ngày vẫn thế . . ... . .",
         "status": "HOT",
         "position": "middle", 
-        "updatedAt": "2021-05-24",
+        "updatedAt": "2021-05-24"
        },
   "9": { 
         "newsId": "9", 
@@ -78,7 +78,7 @@
         "description": "oke bro",
         "status": "HOT",
         "position": "middle", 
-        "updatedAt": "2021-05-24",
+        "updatedAt": "2021-05-24"
        },
  "10": { 
         "newsId": "10", 
@@ -87,7 +87,7 @@
         "description": "oke bro",
         "status": "HOT",
         "position": "bottom", 
-        "updatedAt": "2021-05-24",
+        "updatedAt": "2021-05-24"
        },
  "11": { 
         "newsId": "11", 
@@ -96,7 +96,7 @@
         "description": "oke bro",
         "status": "HOT",
         "position": "bottom",  
-        "updatedAt": "2021-05-24",
+        "updatedAt": "2021-05-24"
        },     
  "12": { 
         "newsId": "12",
@@ -105,7 +105,7 @@
         "description": "oke bro",
         "status": "HOT",
         "position": "bottom", 
-        "updatedAt": "2021-05-24",
+        "updatedAt": "2021-05-24"
        },
  "13": { 
         "newsId": "13",
@@ -114,8 +114,8 @@
         "description": "oke bro",
         "status": "HOT",
         "position": "right", 
-        "updatedAt": "2021-05-24",
-       }
+        "updatedAt": "2021-05-24"
+       },
  "14": { 
         "newsId": "14",
         "image": "https://data.whicdn.com/images/281004488/original.jpg",
@@ -123,8 +123,8 @@
         "description": "oke bro",
         "status": "HOT",
         "position": "right", 
-        "updatedAt": "2021-05-24",
-       }
+        "updatedAt": "2021-05-24"
+       },
  "15": { 
         "newsId": "15",
         "image": "https://data.whicdn.com/images/281004488/original.jpg",
@@ -132,6 +132,6 @@
         "description": "oke bro",
         "status": "HOT",
         "position": "right", 
-        "updatedAt": "2021-05-24",
+        "updatedAt": "2021-05-24"
        }
 }
