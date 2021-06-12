@@ -41,92 +41,20 @@
        },
   "6": { 
         "newsId": "6", 
-        "title": "GIÁ COIN GIẢM NẶNG",
+        "title": "THÔNG BÁO RA MẮT TRANG AWREAD-READER",
         "image": "https://vnn-imgs-f.vgcloud.vn/2021/03/21/08/bitcoin-2.jpg",
-        "description": "Trả tiền cho em đi e không chơi nữa đâu huhu",
+        "description": "Chào mừng trang Awread-reader sẽ ra mắt quý độc giả vào ngày 12/06/2021 tới đây với nhiều tác phẩm hấp dẫn đến từ các tác giả quen thuộc với các bạn trẻ.",
         "status": "HOT",
-        "position": "top", 
-        "updatedAt": "2021-05-24"
+        "position": "banner", 
+        "updatedAt": "2021-06-12"
        },           
   "7": { 
         "newsId": "7", 
-        "title": "Đùa à", 
+        "title": "THÔNG BÁO RA MẮT TRANG AWREAD-WRITER", 
         "image": "https://cdn.elearningindustry.com/wp-content/uploads/2016/05/top-10-books-every-college-student-read-1024x640.jpeg",
-        "description": "Bitcoin bị thao túng rơi không phanh",
+        "description": "Sau một thời gian dài nỗ lực, đội ngũ Awread đã hoàn thành Awread-writer bản open alpha dành cho các tác giả. Bản Awread-writer sẽ được ra mắt vào ngày 12/06/2021 với những trải nghiệm thú vị, kính mời quý tác giả cùng trải nghiệm",
         "status": "HOT",
-        "position": "middle", 
-        "updatedAt": "2021-05-06"
-       },
-  "8": { 
-        "newsId": "8", 
-        "title": "Đùa đấy",
-        "image": "https://assets.entrepreneur.com/content/3x2/2000/20191219170611-GettyImages-1152794789.jpeg",
-        "description": "Một ngày vẫn thế . . ... . .",
-        "status": "HOT",
-        "position": "middle", 
-        "updatedAt": "2021-05-24"
-       },
-  "9": { 
-        "newsId": "9", 
-        "title": "Không đùa nha",
-        "image": "https://bloganh.net/wp-content/uploads/2020/05/cach-tao-dang-quay-lung-voi-ong-kinh.jpg",
-        "description": "oke bro",
-        "status": "HOT",
-        "position": "middle", 
-        "updatedAt": "2021-05-24"
-       },
- "10": { 
-        "newsId": "10", 
-        "title": "Một đêm sayyy",
-        "image": "https://nld.mediacdn.vn/2020/5/29/doi-hoa-tim-5-1590731334546464136746.jpg",
-        "description": "oke bro",
-        "status": "HOT",
-        "position": "bottom", 
-        "updatedAt": "2021-05-24"
-       },
- "11": { 
-        "newsId": "11", 
-        "title": "Combo Lesyn",
-        "image": "https://assets.entrepreneur.com/content/3x2/2000/20191219170611-GettyImages-1152794789.jpeg",
-        "description": "oke bro",
-        "status": "HOT",
-        "position": "bottom",  
-        "updatedAt": "2021-05-24"
-       },     
- "12": { 
-        "newsId": "12",
-        "image": "https://data.whicdn.com/images/281004488/original.jpg",
-        "title": "solo không", 
-        "description": "oke bro",
-        "status": "HOT",
-        "position": "bottom", 
-        "updatedAt": "2021-05-24"
-       },
- "13": { 
-        "newsId": "13",
-        "image": "https://data.whicdn.com/images/281004488/original.jpg",
-        "title": "[Kinh Nghiệm 1]", 
-        "description": "oke bro",
-        "status": "HOT",
-        "position": "right", 
-        "updatedAt": "2021-05-24"
-       },
- "14": { 
-        "newsId": "14",
-        "image": "https://data.whicdn.com/images/281004488/original.jpg",
-        "title": "[Kinh Nghiệm 2]", 
-        "description": "oke bro",
-        "status": "HOT",
-        "position": "right", 
-        "updatedAt": "2021-05-24"
-       },
- "15": { 
-        "newsId": "15",
-        "image": "https://data.whicdn.com/images/281004488/original.jpg",
-        "title": "[Kinh Nghiệm ]", 
-        "description": "oke bro",
-        "status": "HOT",
-        "position": "right", 
-        "updatedAt": "2021-05-24"
+        "position": "banner", 
+        "updatedAt": "2021-06-12"
        }
 }
