@@ -1,21 +1,21 @@
 {
   "1": { 
         "newsId": "1", 
-        "title": "THÔNG BÁO RA MẮT AWREAD BẢN OPEN ALPHA", 
+        "title": "[THÔNG BÁO] Tác giả Cẩm Thương ra mắt truyện ngắn mới", 
         "image": "https://listsach.com/wp-content/uploads/2020/02/top-sach-hay-cho-be-list-sach-truyen-thieu-nhi.jpg",
-        "description": "Ngày 6/6 tới đây, Awread sẽ chính thức phát hành bản open alpha.",
+        "description": "Ngày 06/5, tác giả Cẩm Thương đã ra mắt truyện ngắn mới “Chúng ta của thanh xuân” sau một thời gian dài vắng bóng.",
         "status": "HOT",
-        "position": "banner", 
-        "updatedAt": "2021-06-06"
+        "position": "bottom", 
+        "updatedAt": "2021-06-12"
        },
   "2": { 
         "newsId": "2", 
-        "title": "TEST CÁC CHỨC NĂNG", 
-        "image": "https://tieudung.vn/upload_images/images/2020/11/17/thuc-pham-chuc-nang.jpg",
-        "description": "Bắt đầu test các chức năng.",
+        "title": "7 CÁCH TÌM CẢM HỨNG KHI VIẾT LÁCH", 
+        "image": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/180078030_165022172208118_3101176801762585781_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=FdFOqHmUeywAX_3sesy&_nc_ht=scontent.fhan2-3.fna&oh=68806b03e65678fc3394079f22638db2&oe=60C8D22C",
+        "description": "Mỗi người sẽ có những phương pháp khác nhau để tìm lại cảm hứng khi viết nè, nhưng hẳn là không phải ai cũng có thể nhanh chóng lấy lại cảm hứng để hoàn thành tác phẩm của mình đúng không. Cuối tuần, Sên Bé sẽ chia sẻ cho các bạn những phương pháp tìm lại cảm hứng viết lách đơn giản mà Sên Bé rất hay áp dụng nha.",
         "status": "HOT",
-        "position": "banner", 
-        "updatedAt": "2021-06-01 - 2021-06-06"
+        "position": "left", 
+        "updatedAt": "2021-06-12"
        },       
   "3": { 
         "newsId": "3", 
