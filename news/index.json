@@ -42,7 +42,7 @@
   "6": { 
         "newsId": "6", 
         "title": "THÔNG BÁO RA MẮT TRANG AWREAD-READER",
-        "image": "/global-assets/images/banner1.webp",
+        "image": "https://scontent-hkg4-2.xx.fbcdn.net/v/t1.6435-9/195714595_2940422822880217_1425536479125666726_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=ays_ouql-DMAX_3xZzx&_nc_ht=scontent-hkg4-2.xx&oh=c6838379bf61598824e0ecc74c5809f1&oe=60D3D6B0",
         "description": "Chào mừng trang Awread-reader sẽ ra mắt quý độc giả vào ngày 12/06/2021 tới đây với nhiều tác phẩm hấp dẫn đến từ các tác giả quen thuộc với các bạn trẻ.",
         "status": "HOT",
         "position": "banner", 
@@ -51,7 +51,7 @@
   "7": { 
         "newsId": "7", 
         "title": "THÔNG BÁO RA MẮT TRANG AWREAD-WRITER", 
-        "image": "/global-assets/images/banner3.webp",
+        "image": "https://scontent-hkg4-2.xx.fbcdn.net/v/t1.6435-9/202051241_2940422819546884_2828186489924052902_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=OxzbwzgEVmwAX98r-Jy&_nc_ht=scontent-hkg4-2.xx&oh=e9dd1ecaec480f00009aae184a160055&oe=60D3CED4",
         "description": "Sau một thời gian dài nỗ lực, đội ngũ Awread đã hoàn thành Awread-writer bản open alpha dành cho các tác giả. Bản Awread-writer sẽ được ra mắt vào ngày 12/06/2021 với những trải nghiệm thú vị, kính mời quý tác giả cùng trải nghiệm",
         "status": "HOT",
         "position": "banner", 
