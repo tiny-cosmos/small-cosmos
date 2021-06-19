@@ -42,7 +42,7 @@
   "6": { 
         "newsId": "6", 
         "title": "THÔNG BÁO RA MẮT TRANG AWREAD-READER",
-        "image": "https://vnn-imgs-f.vgcloud.vn/2021/03/21/08/bitcoin-2.jpg",
+        "image": "/global-assets/images/banner1.webp",
         "description": "Chào mừng trang Awread-reader sẽ ra mắt quý độc giả vào ngày 12/06/2021 tới đây với nhiều tác phẩm hấp dẫn đến từ các tác giả quen thuộc với các bạn trẻ.",
         "status": "HOT",
         "position": "banner", 
@@ -51,7 +51,7 @@
   "7": { 
         "newsId": "7", 
         "title": "THÔNG BÁO RA MẮT TRANG AWREAD-WRITER", 
-        "image": "https://cdn.elearningindustry.com/wp-content/uploads/2016/05/top-10-books-every-college-student-read-1024x640.jpeg",
+        "image": "/global-assets/images/banner3.webp",
         "description": "Sau một thời gian dài nỗ lực, đội ngũ Awread đã hoàn thành Awread-writer bản open alpha dành cho các tác giả. Bản Awread-writer sẽ được ra mắt vào ngày 12/06/2021 với những trải nghiệm thú vị, kính mời quý tác giả cùng trải nghiệm",
         "status": "HOT",
         "position": "banner", 
