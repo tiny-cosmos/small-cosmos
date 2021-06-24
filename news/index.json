@@ -56,5 +56,14 @@
         "status": "HOT",
         "position": "banner", 
         "updatedAt": "2021-06-12"
-       }
+       },
+  "8": { 
+        "newsId": "8", 
+        "title": "CÁCH ĐỂ VIẾT MỘT TRUYỆN NGẮN", 
+        "image": "https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-9/197175306_2943582629230903_3345203934576443793_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=-gKbeZ3ZBNsAX-N0bMb&_nc_ht=scontent-hkt1-1.xx&oh=e2d464d3ecb10c0e55da5aa2f0199d1e&oe=60D89650",
+        "description": "Không chỉ những tác giả mới, nhiều tác giả có tên tuổi hay có kinh nghiệm lâu năm cũng rất ưa chuộng thể loại truyện ngắn để gửi gắm những ý tưởng của mình. Vậy viết truyện ngắn là khó hay dễ, và liệu những tác giả mới, những bạn trẻ mới bắt đầu thử viết truyện có thể thử sức với thể loại này hay không?",
+        "status": "HOT",
+        "position": "left", 
+        "updatedAt": "2021-06-24"
+       }  
 }
