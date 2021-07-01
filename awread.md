@@ -34,7 +34,7 @@ Bước 5: Sau khi đã điền đầy đủ thông tin hoặc đã liên kết,
 
 
 
-Bước 6: Sau khi hoàn tất điền thông tin, hệ thống sẽ cập nhật các thông tin cơ bản để người dùng kiểm tra lại thông tin. Người dùng ấn Hoàn tất để hoàn thành tạo tài khoản hoặc Reset để cập nhật lại thông tin.
+**Bước 6**: Sau khi hoàn tất điền thông tin, hệ thống sẽ cập nhật các thông tin cơ bản để người dùng kiểm tra lại thông tin. Người dùng ấn Hoàn tất để hoàn thành tạo tài khoản hoặc Reset để cập nhật lại thông tin.
 
 ![image](https://user-images.githubusercontent.com/77574125/124052430-99564380-da48-11eb-9fa8-9929134f680d.png)
 
@@ -45,6 +45,14 @@ CÁCH ĐĂNG TRUYỆN TẠI AWREAD
 Bước 1: Sau khi đăng nhập tài khoản người dùng tại awread.vn, click vào nút Đăng truyện
 
 ![image](https://user-images.githubusercontent.com/77574125/124052438-9bb89d80-da48-11eb-9754-53824d1e7aad.png)
+![image](https://user-images.githubusercontent.com/77574125/124052443-9e1af780-da48-11eb-8288-ef56072bb675.png)
+![image](https://user-images.githubusercontent.com/77574125/124052448-a115e800-da48-11eb-870e-c49a7ed0574f.png)
+![image](https://user-images.githubusercontent.com/77574125/124052451-a3784200-da48-11eb-86e0-874544a4fc85.png)
+![image](https://user-images.githubusercontent.com/77574125/124052456-a6733280-da48-11eb-987e-c5bdcda9df2a.png)
+![image](https://user-images.githubusercontent.com/77574125/124052461-a96e2300-da48-11eb-9767-7230803abc61.png)
+![image](https://user-images.githubusercontent.com/77574125/124052467-ab37e680-da48-11eb-9a4c-a849cebb51ac.png)
+![image](https://user-images.githubusercontent.com/77574125/124052469-ad9a4080-da48-11eb-98db-c6cec377ac50.png)
+![image](https://user-images.githubusercontent.com/77574125/124052473-affc9a80-da48-11eb-8016-4f1522c1bfa0.png)
 
 
 
@@ -87,6 +95,7 @@ Bước 8: Sau khi xuất bản, nội dung truyện sẽ được cập nhật 
 
 Lưu ý: Trường hợp người dùng muốn xóa chương truyện hoặc xóa truyện. Người dùng chọn biểu tượng như hình mô tả, chọn xóa.
 
+![image](https://user-images.githubusercontent.com/77574125/124053632-cc99d200-da4a-11eb-8b1a-57948a2c02f8.png)
 
 
 
