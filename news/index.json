@@ -5,7 +5,7 @@
         "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/194221882_2940427812879718_5398152138755737583_n.jpg",
         "description": "Ngày 06/5, tác giả Cẩm Thương đã ra mắt truyện ngắn mới “Chúng ta của thanh xuân” sau một thời gian dài vắng bóng.",
         "status": "HOT",
-        "position": "top", 
+        "position": "left", 
         "updatedAt": "2021-06-12"
        },
   "2": { 
@@ -14,21 +14,21 @@
         "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/180078030_165022172208118_3101176801762585781_n.jpg",
         "description": "Mỗi người sẽ có những phương pháp khác nhau để tìm lại cảm hứng khi viết nè, nhưng hẳn là không phải ai cũng có thể nhanh chóng lấy lại cảm hứng để hoàn thành tác phẩm của mình đúng không. Cuối tuần, Sên Bé sẽ chia sẻ cho các bạn những phương pháp tìm lại cảm hứng viết lách đơn giản mà Sên Bé rất hay áp dụng nha.",
         "status": "HOT",
-        "position": "left", 
+        "position": "top", 
         "updatedAt": "2021-06-12"
        },       
   "3": { 
         "newsId": "3", 
         "title": "5 cách để nâng cao kỹ năng viết lách", 
         "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/184309404_169250405118628_5776714931083469797_n.jpg",
-        "position": "left", 
+        "position": "bottom", 
         "updatedAt": "2021-06-12"
        },
   "4": { 
         "newsId": "4", 
         "title": "5 CÁCH ĐỂ ĐỌC NHANH.", 
         "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/188206183_178643944179274_2660960412720664006_n.jpg",
-        "position": "left", 
+        "position": "bottom", 
         "updatedAt": "2021-06-12"
        },
   "5": { 
@@ -36,7 +36,8 @@
         "title": "LIST TRUYỆN NGÔN TÌNH THANH XUÂN KHÔNG THỂ BỎ QUA", 
         "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/195800298_2940427516213081_3997238319148282323_n.jpg",
         "description": "Ai cũng có một thanh xuân, và ai cũng có tuổi học trò cần nhung nhớ. Hôm nay, Awread tổng hợp list những truyện ngôn tình thanh xuân không thể bỏ qua, cùng bạn ôn lại những năm thán thanh xuân ngọt ngào mơ mộng",
-        "position": "bottom", 
+        "status": "NEW",
+        "position": "left", 
         "updatedAt": "2021-06-12"
        },
   "6": { 
@@ -63,7 +64,7 @@
         "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/197175306_2943582629230903_3345203934576443793_n.jpg",
         "description": "Không chỉ những tác giả mới, nhiều tác giả có tên tuổi hay có kinh nghiệm lâu năm cũng rất ưa chuộng thể loại truyện ngắn để gửi gắm những ý tưởng của mình. Vậy viết truyện ngắn là khó hay dễ, và liệu những tác giả mới, những bạn trẻ mới bắt đầu thử viết truyện có thể thử sức với thể loại này hay không?",
         "status": "HOT",
-        "position": "left", 
+        "position": "bottom", 
         "updatedAt": "2021-06-24"
        }  
 }
