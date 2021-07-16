@@ -66,5 +66,14 @@
         "status": "HOT",
         "position": "bottom", 
         "updatedAt": "2021-06-24"
-       }  
+       },
+    "9": { 
+        "newsId": "9", 
+        "title": "CHÀO MỪNG BẠN ĐẾN VỚI AWREAD", 
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/163709138_138681634842172_2634223242338219757_n.jpg",
+        "description": "Chào, mình là Awread, một ứng dụng đọc và viết của người Việt trẻ.",
+        "status": "HOT",
+        "position": "left", 
+        "updatedAt": "2021-06-20"
+       }
 }
