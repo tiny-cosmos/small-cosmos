@@ -70,7 +70,7 @@
     "9": { 
         "newsId": "9", 
         "title": "CHÀO MỪNG BẠN ĐẾN VỚI AWREAD", 
-        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/Screenshot_1.png",
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/Screenshot.png",
         "description": "Chào, mình là Awread, một ứng dụng đọc và viết của người Việt trẻ.",
         "status": "HOT",
         "position": "left", 
