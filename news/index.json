@@ -43,20 +43,20 @@
   "6": { 
         "newsId": "6", 
         "title": "THÔNG BÁO RA MẮT TRANG AWREAD-READER",
-        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/195714595_2940422822880217_1425536479125666726_n.jpg",
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/cover-1.webp",
         "description": "Chào mừng trang Awread-reader sẽ ra mắt quý độc giả vào ngày 12/06/2021 tới đây với nhiều tác phẩm hấp dẫn đến từ các tác giả quen thuộc với các bạn trẻ.",
         "status": "HOT",
         "position": "banner", 
-        "updatedAt": "2021-06-12"
+        "updatedAt": "2021-08-16"
        },           
   "7": { 
         "newsId": "7", 
         "title": "THÔNG BÁO RA MẮT TRANG AWREAD-WRITER", 
-        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/202051241_2940422819546884_2828186489924052902_n.jpg",
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/cover-3.webp",
         "description": "Sau một thời gian dài nỗ lực, đội ngũ Awread đã hoàn thành Awread-writer bản open alpha dành cho các tác giả. Bản Awread-writer sẽ được ra mắt vào ngày 12/06/2021 với những trải nghiệm thú vị, kính mời quý tác giả cùng trải nghiệm",
         "status": "HOT",
         "position": "banner", 
-        "updatedAt": "2021-06-12"
+        "updatedAt": "2021-08-16"
        },
   "8": { 
         "newsId": "8", 
@@ -70,7 +70,7 @@
     "9": { 
         "newsId": "9", 
         "title": "CHÀO MỪNG BẠN ĐẾN VỚI AWREAD", 
-        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/163709138_138681634842172_2634223242338219757_n.jpg",
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/Screenshot_1.png",
         "description": "Chào, mình là Awread, một ứng dụng đọc và viết của người Việt trẻ.",
         "status": "HOT",
         "position": "left", 
