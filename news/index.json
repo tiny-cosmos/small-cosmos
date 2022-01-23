@@ -12,9 +12,7 @@
         "newsId": "2", 
         "title": "7 CÁCH TÌM CẢM HỨNG KHI VIẾT LÁCH", 
         "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/180078030_165022172208118_3101176801762585781_n.jpg",
-        "description": "Mỗi người sẽ có những phương pháp khác nhau để tìm lại cảm hứng khi viết nè, nhưng hẳn là không phải ai cũng có thể nhanh chóng lấy lại cảm hứng để hoàn thành tác phẩm của mình đúng không. Cuối tuần, Sên Bé sẽ chia sẻ cho các bạn những phương pháp tìm lại cảm hứng viết lách đơn giản mà Sên Bé rất hay áp dụng nha.",
-        "status": "TIPS",
-        "position": "top", 
+        "position": "bottom", 
         "updatedAt": "2021-06-12"
        },       
   "3": { 
@@ -75,5 +73,50 @@
         "status": "HOT",
         "position": "left", 
         "updatedAt": "2021-06-20"
+       },
+    "10": { 
+        "newsId": "10", 
+        "title": "Bắt đầu với việc viết như thế nào?", 
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/batdauvoiviecvietnhuthenao.png",
+        "status": "TIPS",
+        "position": "top", 
+        "updatedAt": "2022-01-23"
+       },
+    "11": { 
+        "newsId": "11", 
+        "title": "Những phẩm chất và kỹ năng cần thiết của một người viết", 
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/nhungphamchatvakynangcua1nguoiviet.png",
+        "position": "bottom", 
+        "updatedAt": "2022-01-23"
+       },
+     "12": { 
+        "newsId": "12", 
+        "title": "Tại sao nên luyện kỹ năng viết lách", 
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/taisaonenluyenkynangvietlach.png",
+        "position": "bottom", 
+        "updatedAt": "2022-01-23"
+       },
+      "13": { 
+        "newsId": "13", 
+        "title": "Làm thế nào để học giỏi Văn", 
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/lamthenaodehocgioivan.png",
+        "position": "bottom", 
+        "updatedAt": "2022-01-23"
+       }, 
+      "14": { 
+        "newsId": "14", 
+        "title": "TOP 8 TRUYỆN NGÔN TÌNH NÊN ĐỌC ÍT NHẤT MỘT LẦN", 
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/toptruyenngontinh.png",
+        "status": "HOT",
+        "position": "left", 
+        "updatedAt": "2021-01-23"
+       }, 
+       "15": { 
+        "newsId": "15", 
+        "title": "LIST 5 TÁC PHẨM KINH ĐIỂN TRÊN THẾ GIỚI BẠN KHÔNG THỂ BỎ QUA", 
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/listtacphamkinhdien.png",
+        "status": "HOT",
+        "position": "left", 
+        "updatedAt": "2021-01-23"
        }
 }
