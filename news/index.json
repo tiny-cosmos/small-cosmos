@@ -34,7 +34,7 @@
         "title": "LIST TRUYỆN NGÔN TÌNH THANH XUÂN KHÔNG THỂ BỎ QUA", 
         "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/195800298_2940427516213081_3997238319148282323_n.jpg",
         "description": "Ai cũng có một thanh xuân, và ai cũng có tuổi học trò cần nhung nhớ. Hôm nay, Awread tổng hợp list những truyện ngôn tình thanh xuân không thể bỏ qua, cùng bạn ôn lại những năm thán thanh xuân ngọt ngào mơ mộng",
-        "status": "NEW",
+        "status": "HOT",
         "position": "left", 
         "updatedAt": "2021-06-12"
        },
@@ -107,7 +107,7 @@
         "newsId": "14", 
         "title": "TOP 8 TRUYỆN NGÔN TÌNH NÊN ĐỌC ÍT NHẤT MỘT LẦN", 
         "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/toptruyenngontinh.png",
-        "status": "HOT",
+        "status": "NEW",
         "position": "left", 
         "updatedAt": "2021-01-23"
        }, 
@@ -115,7 +115,7 @@
         "newsId": "15", 
         "title": "LIST 5 TÁC PHẨM KINH ĐIỂN TRÊN THẾ GIỚI BẠN KHÔNG THỂ BỎ QUA", 
         "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/listtacphamkinhdien.png",
-        "status": "HOT",
+        "status": "NEW",
         "position": "left", 
         "updatedAt": "2021-01-23"
        }
