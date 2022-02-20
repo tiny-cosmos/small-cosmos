@@ -118,5 +118,26 @@
         "status": "NEW",
         "position": "left", 
         "updatedAt": "2021-01-23"
-       }
+       },
+        "16": { 
+        "newsId": "16", 
+        "title": "Những Website giúp bạn có ảnh bìa", 
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/nhungwebsitegiupbancoanhbiadep.jpg",
+        "position": "bottom", 
+        "updatedAt": "2022-02-20"
+       },
+        "17": { 
+        "newsId": "17", 
+        "title": "Năm mẹo đặt tên cho nhân", 
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/5meodattenchonhanvat.jpg",
+        "position": "bottom", 
+        "updatedAt": "2022-02-20"
+       }, 
+       "18": { 
+        "newsId": "18", 
+        "title": "Cách lên Outline cho ", 
+        "image": "https://raw.githubusercontent.com/small-cosmos/awread/master/news/images/cachlenoutlinechotruyen.jpg",
+        "position": "bottom", 
+        "updatedAt": "2022-02-20"
+       } 
 }
